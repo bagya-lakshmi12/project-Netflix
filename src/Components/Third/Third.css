@@ -1,0 +1,27 @@
+.third_black{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 570px;
+    border-bottom: 10px solid rgb(42, 39, 39);
+    overflow-y: hidden;
+}
+.image_third img{
+    padding-left: 180px;
+    height: 400px;
+    padding-top: 50px;
+}
+.content_third{
+    text-align: left;
+    padding-top: 120px;
+    padding-left: 80px;
+}
+.down{
+    font-size: 50px;
+    font-weight: 800;
+}
+.save{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: -15px;
+}

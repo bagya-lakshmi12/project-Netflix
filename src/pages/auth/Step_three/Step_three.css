@@ -1,0 +1,73 @@
+.stepthree_logo p{
+    text-align: right;
+    position: relative;
+    right: 80px;
+    top: -100px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.stepthree_logo{
+    margin-left: -120px;
+}
+.stepthree_logo p:hover{
+    text-decoration: underline;
+}
+.stepthree_logo hr{
+    margin-top: -100px;  
+}
+.stepthree_main2{
+    padding-bottom: 110px;
+    padding-top: 100px;
+}
+.stepthree_main2 svg{
+    height: 40px;
+    width: 60px;
+    color: red;
+    margin-top: 0px;
+    /* position: relative;
+    left: 30px; */
+}
+.roundtick svg{
+    margin-left: 700px;
+}
+.stepthree_step{
+    font-size: 13px;
+    font-weight: 400;
+    /* padding-top: 20px; */
+    margin-top: 10px;
+    margin-left: 600px;
+}
+.stepthree_choose{
+    margin-left: 600px;
+}
+.stepthree_text{
+    text-align: left;
+    padding-left: 650px;
+    font-size: 18px;
+}
+/* .svg_content{
+    display: flex;
+    padding-left: 500px;
+    padding-right: 400px;
+}
+
+.stepthree_text svg{
+    height: 10px;
+    color: red;
+} */
+.tick_content{
+    display: flex;
+    padding-left: 600px;
+    text-align: left;
+}
+.height6{
+    height: 60px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: 1px solid red;
+    width: 320px;
+    border-radius: 4px;
+    margin-top: 40px;
+    margin-left: 570px;
+}

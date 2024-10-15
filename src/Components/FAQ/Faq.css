@@ -1,0 +1,48 @@
+.toggle_container{
+    background-color: black;
+    /* border-bottom: 10px solid rgb(42, 39, 39); */
+    overflow-y: hidden;
+}
+.accord_title{
+    background-color: rgb(34, 34, 34);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right: 180px;
+    /* row-gap: 10px; */
+    color: white;
+    padding-left: 50px;
+    /* padding-bottom: 50px; */
+    padding-right: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    border: 5px solid black;    
+    /* border: none; */
+}
+.ques_toggle{
+    /* background-color: rgb(34, 34, 34); */
+    gap: 10px;
+}
+.accord_title:hover{
+    background-color: rgb(43, 43, 43);
+}
+.accord_content{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    margin-left: 185px;
+    margin-right: 185px;
+    /* padding: 15px 10px; */
+    font-size: 24px;
+    font-weight: 400;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    /* margin-top: -23px; */
+    margin-bottom: -24px;
+}
+/* .accordion{
+    border-bottom: 10px solid rgb(42, 39, 39);   
+} */

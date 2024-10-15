@@ -1,0 +1,22 @@
+.foot_white{
+    background-color: rgb(249, 244, 244);
+    height: 250px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.phone_white{
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.footwhite_link{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 250px;
+}
+.lang_globe{
+    position: relative;
+    top: 110px;
+}

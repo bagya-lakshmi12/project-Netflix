@@ -1,0 +1,45 @@
+.firstchild{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.7) 60%, rgba(0, 0, 0, 0.8) 100%), url("..//..//..//assets/banner.jpg");
+    height: 700px;
+    border-bottom: 10px solid rgb(42, 39, 39);
+    overflow-y: hidden;
+}
+.watch{
+    font-size: 23px;
+    color: white;
+    margin-top: -30px;
+    /* margin-left: 600px; */
+    text-align: center;
+}
+.ready{
+    font-size: 22px;
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+    /* margin-left: 400px; */
+    /* padding-left: 400px; */
+}
+.head{
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: -1px;
+    padding-top: 70px;
+    /* padding-left: 400px; */
+    text-align: center;
+}
+.accord{
+    background-color: black;
+}
+.inp{
+    /* margin-top: -440px; */
+    border-bottom: 10px solid rgb(42, 39, 39);
+    padding-bottom: 70px;
+    position: relative;
+    margin-top: -320px;
+}
+.readyy{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}

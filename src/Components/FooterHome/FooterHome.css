@@ -1,0 +1,67 @@
+.foot-home{
+    background-color: black;
+    height: 250px;
+    color: white;
+    padding-top: 180px;
+}
+.home-icons{
+    display: flex;
+    gap: 20px;
+    padding-left: 280px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.link-home{
+    color: gray;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    font-size: 13px;
+    padding-left: 270px;
+    padding-right: 300px;
+    line-height: 10px;
+    /* padding-top: 200px; */
+}
+.link-home p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.button-home button{
+    background-color: black;
+    color: gray;
+    border: 1px solid gray;
+    height: 30px;
+    margin-left: 268px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.button-home button:hover{
+    color: white;
+}
+/* .height77{
+    background-color: black;
+    color: gray;
+    border: 1px solid gray;
+    height: 30px;
+    margin-left: 268px;
+    margin-top: 25px;
+}
+.height77:hover{
+    color: white;
+} */
+.end-home{
+    display: flex;
+    text-align: center;
+    gap: 5px;
+    color: gray;
+    font-size: 13px;
+    margin-left: 268px;
+    margin-top: 20px;
+}
+.copy-home{
+    font-size: 10px;
+    
+}
+.text-home{
+    margin-top: -18px;
+    
+}

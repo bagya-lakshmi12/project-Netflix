@@ -1,0 +1,109 @@
+.sec_page{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.7) 60%, rgba(0, 0, 0, 0.8) 100%), url("..//..//..//assets/banner.jpg");
+    height: 730px;
+}
+.black_opa{
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    /* width: 800px; */
+    width: fit-content;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-bottom: 100px;
+    border-radius: 5px;
+    margin-top: -50px;
+}
+.sign_head{
+    padding-top: 40px;
+}
+.form{
+    color: white;
+    text-align: left;
+}
+ .box1{
+    height: 40px;
+    width: 300px;
+    background: transparent;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+ }
+ .box2{
+    height: 40px;
+    width: 300px;
+    background: transparent;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+ }
+.height1{
+    height: 40px;
+    width: 320px;
+}
+.bg1{
+    background-color: red;
+}
+.color1{
+    color: white;
+}
+.radius1{
+    border-radius: 5px;
+    border: 1px solid red;
+}
+.size1{
+    font-size: 17px;
+}
+.height2{
+    height: 40px;
+    width: 320px;
+}
+.bg2{
+    background-color: rgba(78, 75, 75, 0.6);
+}
+.color2{
+    color: white;
+}
+.radius2{
+    border-radius: 5px;
+    border: 1px solid rgb(78, 75, 75);
+}
+.size2{
+    font-size: 17px;
+}
+.position2{
+   position: relative;
+   top: -20px;
+}
+.forgot{
+    text-align: center;
+    margin-top: -17px;
+}
+.forgot:hover{
+    text-decoration: underline;
+}
+.SignUp{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+}
+.SignUp:hover{
+    text-decoration: underline;
+}
+.this{
+    font-size: 12px;
+    color: rgb(115, 115, 115);
+    margin-top: -10px;
+}
+.learn{
+    color: blue;
+}
+.or{
+    text-align: center;
+    margin-top: -10px;
+}

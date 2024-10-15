@@ -1,0 +1,40 @@
+.fourth_black{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 570px;
+    border-bottom: 10px solid rgb(42, 39, 39);
+    overflow-y: hidden;
+    
+}
+.content_four{
+    text-align: left;
+    padding-top: 150px;
+    padding-left: 180px;
+    
+}
+.every{
+    font-size: 50px;
+    font-weight: 800;
+}
+.stream{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+.image_four{
+    padding-top: 80px;
+    margin-right: 100px;
+}
+.image_four img{
+    height: 440px;
+    position: relative;
+    z-index: 2;
+}
+.image_four video{
+    height: 200px;
+    position: relative;
+    top: -390px;
+    left: 112px;
+    z-index: 1;
+}

@@ -1,0 +1,118 @@
+.sec_page{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.7) 60%, rgba(0, 0, 0, 0.8) 100%), url("..//..//..//assets/banner.jpg");
+    height: 730px;
+    margin-top: 10px;
+}
+.black_opa{
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    /* width: 800px; */
+    width: fit-content;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-bottom: 100px;
+    border-radius: 5px;
+    margin-top: -50px;
+}
+.sign_head{
+    padding-top: 40px;
+}
+.form{
+    color: white;
+    text-align: left;
+}
+ .box1{
+    height: 40px;
+    width: 300px;
+    background: transparent;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+ }
+ /* .box2{
+    height: 40px;
+    width: 300px;
+    background: transparent;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+ } */
+.msg{
+    font-size: 13px;
+    text-align: center;
+    margin-top: -10px;
+}
+.height3{
+    height: 40px;
+    width: 320px;
+}
+.bg3{
+    background-color: red;
+}
+.color3{
+    color: white;
+}
+.radius3{
+    border-radius: 5px;
+    border: 1px solid red;
+}
+.size3{
+    font-size: 17px;
+}
+.position3{
+    position: relative;
+    top: -30px;
+   
+}
+.height4{
+    height: 40px;
+    width: 320px;
+}
+.bg4{
+    background-color: rgba(78, 75, 75, 0.6);
+}
+.color4{
+    color: white;
+}
+.radius4{
+    border-radius: 5px;
+    border: 1px solid rgb(78, 75, 75);
+}
+.size4{
+    font-size: 17px;
+}
+.position4{
+   position: relative;
+   top: -20px;
+}
+.forgot{
+    text-align: center;
+    margin-top: -17px;
+}
+.forgot:hover{
+    text-decoration: underline;
+}
+.SignUp2{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+}
+.SignUp2:hover{
+    text-decoration: underline;
+}
+.this{
+    font-size: 12px;
+    color: rgb(115, 115, 115);
+    margin-top: -10px;
+}
+.learn{
+    color: blue;
+}
+.or_2{
+    text-align: center;
+    margin-top: -38px;
+}

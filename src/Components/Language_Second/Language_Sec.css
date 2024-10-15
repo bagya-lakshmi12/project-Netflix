@@ -1,0 +1,21 @@
+.lang_Sec select{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    padding-left: 40px;
+}
+.globe svg{
+    height: 20px;
+    position: relative;
+    bottom: 29px;
+    /* right: 40px; */
+    left: 10px;
+}
+.lang_Sec{
+    text-align: left;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    /* overflow-y: hidden;
+    overflow-x: hidden; */
+}

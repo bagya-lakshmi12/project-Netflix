@@ -1,0 +1,53 @@
+.step6_logo p{
+    position: relative;
+    /* left: 100px; */
+    text-align: right;
+    right: 80px;
+    top: -100px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.step6_logo{
+    margin-left: -120px;
+}
+.step6_logo p:hover{
+    text-decoration: underline;
+}
+.step6_logo hr{
+    margin-top: -100px;
+    /* overflow-x: hidden; */
+}
+.step6_step{
+    font-size: 13px;
+}
+.step6_main2{
+    margin-left: 600px;
+    padding-bottom: 180px;
+    padding-top: 50px;
+}
+.step6_create{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: -20px;
+    /* text-align: left; */
+}
+.step6_just{
+    font-size: 17px;
+}
+.step6_main2 input{
+    height: 50px;
+    width: 400px;
+    font-size: 15px;
+    padding-left: 10px;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
+.height9{
+    height: 55px;
+    width: 413px;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 3px;
+    font-size: 20px;
+}

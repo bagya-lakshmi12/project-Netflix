@@ -1,0 +1,7 @@
+.netflix_logo img{
+    height: 130px;
+    justify-content: flex-start;
+    display: grid;
+    padding-left: 150px;
+    padding-top: -40px;
+}

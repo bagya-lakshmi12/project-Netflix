@@ -1,0 +1,47 @@
+.second_black{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 570px;
+    overflow-y: hidden;
+    border-bottom: 10px solid rgb(42, 39, 39);
+}
+.content_sec{
+    margin-left: 180px;
+    padding-top: 160px;
+    text-align: left;
+    position: relative;
+    
+}
+.content_sec .enjoy{
+    font-size: 50px;
+    font-weight: 800;
+    position: relative;
+}
+.content_sec .tv{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+.image_sec{
+    margin-left: 100px;
+    position: relative;
+    top: 100px;
+    right: 150px;
+}
+.image_sec img{
+    height: 414px;
+    width: 558px;
+    position: relative;
+    z-index: 2;
+}
+.image_sec video{
+    height: 228px;
+    position: relative;
+    top: -332px;
+    left: 74px;
+    z-index: 1;
+}
+
+
+

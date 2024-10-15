@@ -1,0 +1,18 @@
+.lang_btm select{
+    height: 35px;
+    width: 120px;
+    position: relative;
+    bottom: 120px;
+    left: -510px;
+    background: transparent;
+    color: white;
+    border-radius: 4px;
+    padding-left: 40px;
+}
+.icon svg{
+    height: 15px;
+    position: relative;
+    bottom: 149px;
+    color: white;
+    left: -543px;
+}

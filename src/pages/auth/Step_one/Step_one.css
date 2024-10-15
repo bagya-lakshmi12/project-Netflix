@@ -1,0 +1,58 @@
+.stepone_logo{
+    /* position: relative;
+    top: 100px; */
+    /* border-bottom: 1px solid gray; */
+}
+.stepone_logo{
+    margin-left: -120px;
+}
+.stepone_logo hr{
+    margin-top: -30px;
+}
+/* .stepone_main{
+    display: flex;
+} */
+.stepone_sign p{
+    color: black;
+    padding-left: 1370px;
+    position: relative;
+    top: -80px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.hov:hover{
+    text-decoration: underline;
+}
+.stepone_main2{
+    padding-top: 80px;
+    padding-bottom: 130px;
+}
+.stepone_img{
+    padding-left: 630px;
+}
+.stepone_step{
+    font-size: 13px;
+    text-align: center;
+    /* padding-top: -30px; */
+}
+.stepone_finish{
+    text-align: center;
+}
+.stepone_net{
+    text-align: center;
+}
+.height5{
+    height: 60px;
+    width: 335px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: 1px solid red;
+    margin-left: 590px;
+}
+
+
+
+
+
+

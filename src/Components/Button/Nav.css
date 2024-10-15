@@ -1,0 +1,48 @@
+.top{
+    display: flex;
+    /* align-items: center; */
+    /* align-content: center; */
+    justify-content: space-between;
+    align-content: center;
+    padding-right: 150px;
+    padding-left: 120px;
+    margin-top: -20px;
+
+}
+.right_nav{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    gap: 20px;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.log img{
+    height: 130px;
+}
+.lang_nav select{
+    height: 35px;
+    width: 120px;
+    padding-left:35px;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+}
+.lang_nav svg{
+    height: 15px;
+    color: white;
+    position: relative;
+    right: 105px;
+    top: 2px;
+}
+.butt button{
+    height: 35px;
+    width: 80px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid red;
+}
+.butt button:hover{
+    background-color: rgb(190,3,3);
+}

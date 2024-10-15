@@ -1,0 +1,101 @@
+.step5_logo p{
+    text-align: right;
+    position: relative;
+    right: 80px;
+    top: -100px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.step5_logo{
+    margin-left: -120px;
+}
+.step5_logo p:hover{
+    text-decoration: underline;
+}
+.step5_logo hr{
+    margin-top: -100px;  
+}
+.step5_main2{
+    padding-top: 50px;
+}
+.step5_lock{
+    border: 3px solid red;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 740px;
+}
+.step5_lock svg{
+    height: 20px;
+    color: red;
+    /* border: 3px solid red; */
+    margin-top: 8px;
+    margin-left: 10px;
+}
+/* .step5_round{
+    border-radius: 30px;
+    height: 140px;
+    width: 140px;
+    color: red;
+} */
+.step5_step{
+    font-size: 13px;
+    margin-top: 60px;
+    text-align: center;
+}
+.step5_choose{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: -30px;
+    text-align: center;
+}
+.step5_your{
+    font-size: 18px;
+    margin-top: -15px;
+    text-align: center;
+}
+.step5_secure{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: -10px;
+    text-align: center;
+
+}
+.step5_end{
+    font-size: 14px;
+    margin-top: 50px;
+    margin-left: 840px;
+}
+.step5_end svg{
+    height: 15px;
+    color: rgb(255, 183, 0);
+    /* margin-top: 52px; */
+}
+.height7{
+    height: 60px;
+    width: 500px;
+    margin-top: -5px;
+    margin-left: 500px;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 15px;
+    border: 2px solid rgb(143, 142, 142);
+    border-radius: 5px;
+    background-color: white;
+}
+.height8{
+    height: 60px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 500px;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 15px;
+    border: 2px solid rgb(143, 142, 142);
+    border-radius: 5px;
+    background-color: white;
+}
+
+.step5_foot{
+    padding-top: 150px;
+}
